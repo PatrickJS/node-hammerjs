@@ -1,0 +1,25 @@
+{
+  "name": "node-hammerjs",
+  "version": "1.0.0",
+  "description": "A node version of a javascript library for multi-touch gestures",
+  "main": "node-hammerjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatrickJS/node-hammerjs.git"
+  },
+  "keywords": [
+    "hammerjs",
+    "nodejs",
+    "node",
+    "hammer.js"
+  ],
+  "author": "PatrickJS <github@patrickjs.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PatrickJS/node-hammerjs/issues"
+  },
+  "homepage": "https://github.com/PatrickJS/node-hammerjs#readme"
+}
